@@ -1,1 +1,2 @@
 # Exercise
+A new repository
